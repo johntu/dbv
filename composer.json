@@ -1,0 +1,14 @@
+{
+    "name": "johntu/dbv",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "Database version control, made easy!",
+    "keywords": [],
+    "homepage": "https://github.com/johntu/dbv",
+    "authors": [{
+        "name": "johntu",
+        "email": "john.brynte@gmail.com",
+        "homepage": "https://github.com/johntu",
+        "role": "Developer"
+    }]
+}
